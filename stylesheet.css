@@ -58,6 +58,12 @@ a {
   background-color: #55acee;
 }
 
+.blockquote{
+  width: 260px;
+  height: 160px;
+}
+
+
 .btn {
   padding: 8px 24px;
   color: white;
